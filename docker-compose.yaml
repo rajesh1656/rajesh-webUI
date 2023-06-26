@@ -5,4 +5,4 @@ services:
     build: .
     container_name: ashuc1
     ports:
-    - 1990:80
+    - 1989:80
